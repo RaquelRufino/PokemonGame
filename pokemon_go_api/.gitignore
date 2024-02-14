@@ -1,0 +1,16 @@
+# Arquivos de compilação Python
+*.pyc
+__pycache__/
+
+# Ambiente virtual Python
+venv/
+env/
+.venv/
+.venv3/
+
+# Diretório do Poetry
+.pyproject.toml
+poetry.lock
+
+# Configurações do Visual Studio Code
+.vscode/
